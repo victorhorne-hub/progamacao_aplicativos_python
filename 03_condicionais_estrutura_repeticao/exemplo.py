@@ -40,10 +40,14 @@ else:
         print(nome)
 
     # 6. Break, Continue, pass
-    for numero in range(1,11):
+    # 6. Break, Continue, pass
+
+    for numero in range(1, 11):
 
         if numero == 6:
-            #break
-            #continue
-            #pass
-    print(numero)
+            # break
+            # continue
+            # pass
+            pass
+
+        print(numero)
