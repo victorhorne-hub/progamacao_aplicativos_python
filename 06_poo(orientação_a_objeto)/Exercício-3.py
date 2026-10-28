@@ -18,7 +18,7 @@ class ContaBancaria:
         print(f"Titular: {self.titular} | Saldo: R$ {self.saldo:.2f}")
 
 
-# --- Programa Principal ---
+# === Programa Principal ===
 
 # Criando conta sem saldo inicial (assume 0 por padrão)
 conta1 = ContaBancaria("Ana")
